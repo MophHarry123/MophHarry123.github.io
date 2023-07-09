@@ -1,7 +1,7 @@
 let firstNumber = document.getElementById("fisNum");
 let secondNumber = document.getElementById("secNum");
 let operator = document.getElementById("operator");
-let calculateBtn = document.getElementById("calculateBtn");
+let calculateBtn = document.getElementById("calbtn");
 let result = document.getElementById("result");
 
 
